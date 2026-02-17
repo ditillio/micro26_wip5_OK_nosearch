@@ -477,12 +477,12 @@ body.sidebar-hidden .toc-split-right{
 
 .content-reload{
   position: absolute;
-  right: 33px !important;
+  right: 32px !important;
   top: 50%;
   transform: translateY(-50%);
   z-index: 1000;
 
-  font-size: 36px;      /* dimensione icona */
+  font-size: 40px;      /* dimensione icona */
   font-weight: 100;
   line-height: 1;
 

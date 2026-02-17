@@ -476,7 +476,7 @@ body.sidebar-hidden .toc-split-right{
    =========================== */
 
 .content-reload{
-  position: fixed;
+  position: absolute;
   right: 33px !important;
   top: 50%;
   transform: translateY(-50%);
@@ -510,7 +510,7 @@ body.sidebar-hidden .toc-split-right{
    =========================== */
 
 .go-big-toc{
-  position: fixed;
+  position: absolute;
   right: 30px !important;
   top: 40%;
   z-index: 60;
@@ -550,7 +550,7 @@ body.sidebar-hidden .toc-split-right{
    =========================== */
 
 .content-print{
-  position: fixed;
+  position: absolute;
   right: 30px !important;
 
   /* sotto al reload (che è circa al 50%) */
